@@ -1,6 +1,8 @@
 # Platform | Devops | Product
 
 - [ ] CICD
+ - Self Hosted Gitlab
+ 
 - [ ] Google Cloud Function
  - PubSub
  - Http
