@@ -1,7 +1,7 @@
 # Platform | Devops | Product
 
-[ ] CICD
-[ ] Google Cloud Function
+- [ ] CICD
+- [ ] Google Cloud Function
  - PubSub
  - Http
  - Storage
